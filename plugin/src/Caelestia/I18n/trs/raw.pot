@@ -1,0 +1,1901 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the caelestia-shell package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: caelestia-shell\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-05 03:49+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, qt-format
+msgid "\"%1\" selected"
+msgstr ""
+
+msgid "Filter:"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Select a file"
+msgstr ""
+
+msgid "This folder is empty"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+#, qt-format
+msgid "+%1"
+msgstr ""
+
+msgid "Wallpaper missing?"
+msgstr ""
+
+msgid "Select a wallpaper"
+msgstr ""
+
+msgid "Image files"
+msgstr ""
+
+msgid "Set it now!"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Output device"
+msgstr ""
+
+msgid "Input device"
+msgstr ""
+
+#, qt-format
+msgid "Volume (%1)"
+msgstr ""
+
+msgid "Muted"
+msgstr ""
+
+msgid "Open settings"
+msgstr ""
+
+#, qt-format
+msgid "Remaining: %1%"
+msgstr ""
+
+msgid "No battery detected"
+msgstr ""
+
+#, qt-format
+msgid "Time %1: %2"
+msgstr ""
+
+#, qt-format
+msgid "Power profile: %1"
+msgstr ""
+
+msgid "Performance Degraded"
+msgstr ""
+
+#, qt-format
+msgid "Reason: %1"
+msgstr ""
+
+msgid "Bluetooth"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Discovering"
+msgstr ""
+
+#, qt-format
+msgid "%1 device%2 available"
+msgstr ""
+
+#, qt-format
+msgid " (%1 connected)"
+msgstr ""
+
+msgid "Keyboard Layouts"
+msgstr ""
+
+msgid "Keyboard layout limit"
+msgstr ""
+
+msgid "XKB supports only 4 layouts at a time"
+msgstr ""
+
+#, qt-format
+msgid "Capslock: %1"
+msgstr ""
+
+#, qt-format
+msgid "Numlock: %1"
+msgstr ""
+
+msgid "Wireless"
+msgstr ""
+
+#, qt-format
+msgid "%1 networks available"
+msgstr ""
+
+msgid "Rescan networks"
+msgstr ""
+
+msgid "Ethernet"
+msgstr ""
+
+#, qt-format
+msgid "%1 devices available"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Enter password"
+msgstr ""
+
+#, qt-format
+msgid "Network: %1"
+msgstr ""
+
+msgid "Network: Unknown"
+msgstr ""
+
+msgid "Connection failed. Please check your password and try again."
+msgstr ""
+
+msgid "Connecting..."
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Battery warning"
+msgstr ""
+
+msgid "Battery level is low"
+msgstr ""
+
+msgid "Hibernating in 5 seconds"
+msgstr ""
+
+msgid "Hibernating to prevent data loss"
+msgstr ""
+
+msgid "Charger unplugged"
+msgstr ""
+
+msgid "Battery is discharging"
+msgstr ""
+
+msgid "Charger plugged in"
+msgstr ""
+
+msgid "Battery is charging"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Media"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "Weather"
+msgstr ""
+
+msgid "No media"
+msgstr ""
+
+msgid "Unknown title"
+msgstr ""
+
+msgid "Unknown album"
+msgstr ""
+
+msgid "Unknown artist"
+msgstr ""
+
+msgid "Nothing playing"
+msgstr ""
+
+msgid "Play something for it to show up here!"
+msgstr ""
+
+msgid "Loading lyrics..."
+msgstr ""
+
+msgid "No lyrics found"
+msgstr ""
+
+msgid "Lyrics"
+msgstr ""
+
+msgid "No players"
+msgstr ""
+
+#, qt-format
+msgid "Backend: %1"
+msgstr ""
+
+#, qt-format
+msgid "Selected candidate: %1 | %2 | %3"
+msgstr ""
+
+#, qt-format
+msgid "Offset: %1 ms"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "No widgets enabled"
+msgstr ""
+
+msgid "Enable widgets in the dashboard settings"
+msgstr ""
+
+msgid "CPU"
+msgstr ""
+
+msgid "GPU"
+msgstr ""
+
+msgid "Battery"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
+msgid "Charging"
+msgstr ""
+
+msgid "..."
+msgstr ""
+
+msgid "Usage"
+msgstr ""
+
+msgid "Memory"
+msgstr ""
+
+msgid "Used"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "Collecting data..."
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Storage"
+msgstr ""
+
+msgid "No disks detected"
+msgstr ""
+
+msgid "No disks"
+msgstr ""
+
+msgid "7-Day Forecast"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Select a profile picture"
+msgstr ""
+
+#, qt-format
+msgid "Type \"%1\" for commands"
+msgstr ""
+
+msgid "No wallpapers found"
+msgstr ""
+
+msgid "No results"
+msgstr ""
+
+#, qt-format
+msgid "Try putting some wallpapers in %1"
+msgstr ""
+
+msgid "Try searching for something else"
+msgstr ""
+
+msgid "Calculating..."
+msgstr ""
+
+msgid "Type an expression to calculate"
+msgstr ""
+
+msgid "Open in calculator"
+msgstr ""
+
+msgid "Unnamed"
+msgstr ""
+
+msgid "No description"
+msgstr ""
+
+msgid "Vibrant"
+msgstr ""
+
+msgid "A high chroma palette. The primary palette's chroma is at maximum."
+msgstr ""
+
+msgid "Tonal Spot"
+msgstr ""
+
+msgid "Default for Material theme colours. A pastel palette with a low chroma."
+msgstr ""
+
+msgid "Expressive"
+msgstr ""
+
+msgid "A medium chroma palette. The primary palette's hue is different from the seed colour, for variety."
+msgstr ""
+
+msgid "Fidelity"
+msgstr ""
+
+msgid "Matches the seed colour, even if the seed colour is very bright (high chroma)."
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Almost identical to fidelity."
+msgstr ""
+
+msgid "Fruit Salad"
+msgstr ""
+
+msgid "A playful theme - the seed colour's hue does not appear in the theme."
+msgstr ""
+
+msgid "Rainbow"
+msgstr ""
+
+msgid "Neutral"
+msgstr ""
+
+msgid "Close to grayscale, a hint of chroma."
+msgstr ""
+
+msgid "Monochrome"
+msgstr ""
+
+msgid "All colours are grayscale, no chroma."
+msgstr ""
+
+msgid "Scanning face..."
+msgstr ""
+
+msgid "Max tries reached"
+msgstr ""
+
+msgid "Enter your password"
+msgstr ""
+
+#, qt-format
+msgid "FP ERROR: %1"
+msgstr ""
+
+#, qt-format
+msgid "FACE ERROR: %1"
+msgstr ""
+
+#, qt-format
+msgid "PW ERROR: %1"
+msgstr ""
+
+#, qt-format
+msgid "Fingerprint not recognized (%1/%2). Please try again or use password."
+msgstr ""
+
+#, qt-format
+msgid "Face not recognized (%1/%2). Please try again or use password."
+msgstr ""
+
+#, qt-format
+msgid "Fingerprint not recognized (%1/%2). Please try again."
+msgstr ""
+
+#, qt-format
+msgid "Face not recognized (%1/%2). Please try again."
+msgstr ""
+
+msgid "Incorrect password. Please try again or use fingerprint."
+msgstr ""
+
+msgid "Incorrect password. Please try again or use face."
+msgstr ""
+
+msgid "Incorrect password. Please try again."
+msgstr ""
+
+msgid "Maximum password attempts reached. Please use fingerprint."
+msgstr ""
+
+msgid "Maximum password attempts reached. Please use face."
+msgstr ""
+
+msgid "Maximum attempts for all authentication methods reached."
+msgstr ""
+
+msgid "Maximum password attempts reached."
+msgstr ""
+
+msgid "Maximum fingerprint attempts reached. Please use password."
+msgstr ""
+
+msgid "Maximum face attempts reached. Please use password."
+msgstr ""
+
+#, qt-format
+msgid ""
+"Caps lock and Num lock are ON.\n"
+"Keyboard layout: %1"
+msgstr ""
+
+#, qt-format
+msgid "Caps lock is ON. Kb layout: %1"
+msgstr ""
+
+#, qt-format
+msgid "Num lock is ON. Kb layout: %1"
+msgstr ""
+
+#, qt-format
+msgid "Keyboard layout: %1"
+msgstr ""
+
+msgid "Caps lock and Num lock are ON."
+msgstr ""
+
+msgid "Caps lock is ON."
+msgstr ""
+
+msgid "Num lock is ON."
+msgstr ""
+
+msgid "Unknown track"
+msgstr ""
+
+msgid "Try playing some music!"
+msgstr ""
+
+#, qt-format
+msgid "%1 notification%2"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Unlock for Notifications"
+msgstr ""
+
+msgid "No Notifications"
+msgstr ""
+
+#, qt-format
+msgid "Feels like %1"
+msgstr ""
+
+#, qt-format
+msgid "High %1 • Low %2"
+msgstr ""
+
+msgid "Hourly forecast"
+msgstr ""
+
+msgid "Now"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Not connected"
+msgstr ""
+
+#, qt-format
+msgid "Data usage: %1"
+msgstr ""
+
+msgid "Wired connection"
+msgstr ""
+
+#, qt-format
+msgid "Not connected • %1"
+msgstr ""
+
+msgid "Local IP Address"
+msgstr ""
+
+msgid "Primary DNS"
+msgstr ""
+
+msgid "No networks found"
+msgstr ""
+
+msgid "Wi-Fi disabled"
+msgstr ""
+
+#, qt-format
+msgid "Security: %1%2"
+msgstr ""
+
+msgid " • Connected"
+msgstr ""
+
+msgid " • Saved"
+msgstr ""
+
+msgid "Search settings"
+msgstr ""
+
+msgid "Page under construction"
+msgstr ""
+
+msgid "This page will be available in a future update."
+msgstr ""
+
+msgid "Wallpaper & style"
+msgstr ""
+
+msgid "Wallpaper, fonts, colours"
+msgstr ""
+
+msgid "Wi-Fi, ethernet, VPN"
+msgstr ""
+
+msgid "Connected devices"
+msgstr ""
+
+msgid "Bluetooth, pairing"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "App volumes, sound devices"
+msgstr ""
+
+msgid "Updates"
+msgstr ""
+
+msgid "System updates"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Manage plugins"
+msgstr ""
+
+msgid "Panels"
+msgstr ""
+
+msgid "Dashboard, taskbar, launcher, sidebar"
+msgstr ""
+
+msgid "Apps"
+msgstr ""
+
+msgid "Default apps, favourites, hidden apps"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Poll intervals, lyrics backend"
+msgstr ""
+
+msgid "Language & region"
+msgstr ""
+
+msgid "UI language, weather location, display units"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "System information, credits"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "Hostname"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Distro"
+msgstr ""
+
+msgid "Kernel"
+msgstr ""
+
+msgid "Firmware"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "Shell"
+msgstr ""
+
+msgid "CLI"
+msgstr ""
+
+msgid "Quickshell"
+msgstr ""
+
+msgid "Qt"
+msgstr ""
+
+msgid "Loaded plugins"
+msgstr ""
+
+msgid "All apps"
+msgstr ""
+
+msgid "App info"
+msgstr ""
+
+msgid "Launcher"
+msgstr ""
+
+msgid "Favourite"
+msgstr ""
+
+msgid "Matched by a regex in favouriteApps — edit the config file to change"
+msgstr ""
+
+msgid "Pin to the top of the launcher"
+msgstr ""
+
+msgid "Hidden"
+msgstr ""
+
+msgid "Matched by a regex in hiddenApps — edit the config file to change"
+msgstr ""
+
+msgid "Hide from the launcher"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "App ID"
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Default applications"
+msgstr ""
+
+msgid "Terminal"
+msgstr ""
+
+msgid "Media playback"
+msgstr ""
+
+msgid "File manager"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "Browse installed apps, set favourites and hidden"
+msgstr ""
+
+msgid "App volumes"
+msgstr ""
+
+msgid "Adjust the volume of individual apps currently playing audio."
+msgstr ""
+
+msgid "No apps playing audio"
+msgstr ""
+
+msgid "Output"
+msgstr ""
+
+msgid "No output devices"
+msgstr ""
+
+msgid "Input"
+msgstr ""
+
+msgid "No input devices"
+msgstr ""
+
+msgid "1 app playing audio"
+msgstr ""
+
+#, qt-format
+msgid "%1 apps playing audio"
+msgstr ""
+
+msgid "Pair new device"
+msgstr ""
+
+msgid "Available devices"
+msgstr ""
+
+msgid "Searching for devices…"
+msgstr ""
+
+msgid "Unknown device"
+msgstr ""
+
+msgid "Pairing..."
+msgstr ""
+
+msgid "Paired"
+msgstr ""
+
+msgid "Not paired"
+msgstr ""
+
+msgid "Forget"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Trusted"
+msgstr ""
+
+msgid "Allow this device to connect automatically"
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Prevent this device from connecting"
+msgstr ""
+
+msgid "Wake allowed"
+msgstr ""
+
+msgid "Allow this device to wake the system"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "No saved devices"
+msgstr ""
+
+msgid "Bluetooth disabled"
+msgstr ""
+
+#, qt-format
+msgid "Connected%1"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Discoverable"
+msgstr ""
+
+msgid "Allow nearby devices to find this one"
+msgstr ""
+
+msgid "Pairable"
+msgstr ""
+
+msgid "Allow nearby devices to pair with this one"
+msgstr ""
+
+msgid "24-hour"
+msgstr ""
+
+msgid "12-hour"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "System language"
+msgstr ""
+
+#, qt-format
+msgid "Follows your system locale (%1)"
+msgstr ""
+
+msgid "Location picker coming soon"
+msgstr ""
+
+msgid "Choose your weather location on a map in a future update"
+msgstr ""
+
+msgid "Units"
+msgstr ""
+
+msgid "Temperature"
+msgstr ""
+
+msgid "Units for weather temperatures"
+msgstr ""
+
+msgid "System temperatures"
+msgstr ""
+
+msgid "Units for CPU and GPU temperatures"
+msgstr ""
+
+msgid "Time & date"
+msgstr ""
+
+msgid "Clock format"
+msgstr ""
+
+msgid "How times are shown across the shell"
+msgstr ""
+
+msgid "Add network"
+msgstr ""
+
+msgid "Enter the details below to manually connect to a network."
+msgstr ""
+
+msgid "Network name (SSID)"
+msgstr ""
+
+msgid "e.g. MyHiddenNetwork"
+msgstr ""
+
+msgid "Network name is required"
+msgstr ""
+
+msgid "Hidden network"
+msgstr ""
+
+msgid "Actively probe for a network that doesn't broadcast its name"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "WPA/WPA2/WPA3 Personal"
+msgstr ""
+
+msgid "None (open)"
+msgstr ""
+
+msgid "WPA passwords are at least 8 characters"
+msgstr ""
+
+msgid "Connection failed — check the password"
+msgstr ""
+
+msgid "Password must be at least 8 characters"
+msgstr ""
+
+msgid "Edit VPN provider"
+msgstr ""
+
+msgid "Add VPN provider"
+msgstr ""
+
+msgid "Built-in names (wireguard, warp, tailscale, netbird) auto-fill their commands. For others, provide the connect/disconnect commands."
+msgstr ""
+
+msgid "Provider name"
+msgstr ""
+
+msgid "Built-in id or a custom name"
+msgstr ""
+
+msgid "Provider name is required"
+msgstr ""
+
+msgid "Display name"
+msgstr ""
+
+msgid "Shown in the list"
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "Network interface (for WireGuard / status checks)"
+msgstr ""
+
+msgid "Custom commands (optional)"
+msgstr ""
+
+msgid "Connect command"
+msgstr ""
+
+msgid "Leave empty to use the built-in default"
+msgstr ""
+
+msgid "Disconnect command"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "All networks"
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Secured"
+msgstr ""
+
+msgid "5 GHz"
+msgstr ""
+
+msgid "2.4 GHz"
+msgstr ""
+
+msgid "Connection"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "—"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+msgid "IP address"
+msgstr ""
+
+msgid "Gateway"
+msgstr ""
+
+msgid "MAC address"
+msgstr ""
+
+msgid "IPv4"
+msgstr ""
+
+msgid "IP assignment"
+msgstr ""
+
+msgid "Automatic (DHCP)"
+msgstr ""
+
+msgid "Automatic, DNS only"
+msgstr ""
+
+msgid "Manual"
+msgstr ""
+
+msgid "Address (CIDR)"
+msgstr ""
+
+msgid "IP and prefix, e.g. 192.168.1.50/24"
+msgstr ""
+
+msgid "Enter a valid address in CIDR notation"
+msgstr ""
+
+msgid "Enter a valid gateway address"
+msgstr ""
+
+msgid "DNS servers"
+msgstr ""
+
+msgid "Comma-separated"
+msgstr ""
+
+msgid "Enter valid DNS server addresses"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Signal"
+msgstr ""
+
+#, qt-format
+msgid "%1%"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Frequency"
+msgstr ""
+
+#, qt-format
+msgid "%1 MHz"
+msgstr ""
+
+msgid "Behaviour"
+msgstr ""
+
+msgid "Connect automatically"
+msgstr ""
+
+msgid "Join this network when it's in range"
+msgstr ""
+
+msgid "Saved networks"
+msgstr ""
+
+msgid "No saved networks"
+msgstr ""
+
+#, qt-format
+msgid "Connected • %1"
+msgstr ""
+
+msgid "Wi-Fi"
+msgstr ""
+
+#, qt-format
+msgid "Show all networks (%1)"
+msgstr ""
+
+msgid "VPN"
+msgstr ""
+
+msgid "No VPN providers configured"
+msgstr ""
+
+msgid "Tap to select"
+msgstr ""
+
+msgid "Disconnecting..."
+msgstr ""
+
+msgid "Authentication required"
+msgstr ""
+
+msgid "An error occurred"
+msgstr ""
+
+msgid "Selected"
+msgstr ""
+
+msgid "Current Ping"
+msgstr ""
+
+#, qt-format
+msgid "%1 ms"
+msgstr ""
+
+msgid "Add provider"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Show on hover"
+msgstr ""
+
+msgid "Reveal when the cursor reaches the screen edge"
+msgstr ""
+
+msgid "Tabs"
+msgstr ""
+
+msgid "Performance widgets"
+msgstr ""
+
+msgid "Drag threshold"
+msgstr ""
+
+msgid "Pixels dragged before the dashboard opens"
+msgstr ""
+
+msgid "Action prefix"
+msgstr ""
+
+msgid "Prefix used to run actions in the launcher"
+msgstr ""
+
+msgid "Prefix must not be alphanumeric"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Max items shown"
+msgstr ""
+
+msgid "Max wallpapers"
+msgstr ""
+
+msgid "Pixels dragged before the launcher opens"
+msgstr ""
+
+msgid "Vim keybinds"
+msgstr ""
+
+msgid "Navigate results with Ctrl+hjkl"
+msgstr ""
+
+msgid "Enable dangerous actions"
+msgstr ""
+
+msgid "Allow actions that shut down or log out"
+msgstr ""
+
+msgid "Fuzzy search"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Schemes"
+msgstr ""
+
+msgid "Variants"
+msgstr ""
+
+msgid "Wallpapers"
+msgstr ""
+
+msgid "Sidebar"
+msgstr ""
+
+msgid "Pixels dragged before the sidebar opens"
+msgstr ""
+
+msgid "Active window"
+msgstr ""
+
+msgid "Compact"
+msgstr ""
+
+msgid "Inverted"
+msgstr ""
+
+msgid "Only show the active window title while hovering"
+msgstr ""
+
+msgid "Popout on hover"
+msgstr ""
+
+msgid "Show a window details popout when hovering"
+msgstr ""
+
+msgid "Clock"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Show date"
+msgstr ""
+
+msgid "Show icon"
+msgstr ""
+
+msgid "Lock keys"
+msgstr ""
+
+msgid "Keyboard layout"
+msgstr ""
+
+msgid "Speakers"
+msgstr ""
+
+msgid "Microphone"
+msgstr ""
+
+msgid "Status icons"
+msgstr ""
+
+msgid "Visible icons"
+msgstr ""
+
+msgid "Add entry"
+msgstr ""
+
+msgid "Add new entry"
+msgstr ""
+
+msgid "Show a details popout when hovering the status icons"
+msgstr ""
+
+msgid "Tray"
+msgstr ""
+
+msgid "Recolour icons"
+msgstr ""
+
+msgid "Show the tray menu popout when hovering"
+msgstr ""
+
+msgid "Workspaces"
+msgstr ""
+
+msgid "Shown"
+msgstr ""
+
+msgid "Number of workspaces displayed"
+msgstr ""
+
+msgid "Active indicator"
+msgstr ""
+
+msgid "Active trail"
+msgstr ""
+
+msgid "Occupied background"
+msgstr ""
+
+msgid "Show windows"
+msgstr ""
+
+msgid "Show icons of open windows on each workspace"
+msgstr ""
+
+msgid "Windows on special workspaces"
+msgstr ""
+
+msgid "Max window icons"
+msgstr ""
+
+msgid "Per-monitor workspaces"
+msgstr ""
+
+msgid "Show each monitor's workspaces independently"
+msgstr ""
+
+msgid "Taskbar"
+msgstr ""
+
+msgid "Persistent"
+msgstr ""
+
+msgid "Keep the bar visible at all times"
+msgstr ""
+
+msgid "Reveal the bar when the cursor reaches the screen edge"
+msgstr ""
+
+msgid "Pixels dragged before the bar reveals"
+msgstr ""
+
+msgid "Components"
+msgstr ""
+
+msgid "Indicators, window icons"
+msgstr ""
+
+msgid "Title display, popout"
+msgstr ""
+
+msgid "System tray icons"
+msgstr ""
+
+msgid "Visible indicators"
+msgstr ""
+
+msgid "Date, icon, background"
+msgstr ""
+
+msgid "Scroll actions"
+msgstr ""
+
+msgid "Scroll over the workspace indicator to switch workspaces"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "Scroll on the top half of the bar to adjust volume"
+msgstr ""
+
+msgid "Brightness"
+msgstr ""
+
+msgid "Scroll on the bottom half of the bar to adjust brightness"
+msgstr ""
+
+msgid "Utilities"
+msgstr ""
+
+msgid "Show the utilities panel"
+msgstr ""
+
+msgid "Cards"
+msgstr ""
+
+msgid "Keep awake"
+msgstr ""
+
+msgid "Show the idle inhibitor card"
+msgstr ""
+
+msgid "Screen recorder"
+msgstr ""
+
+msgid "Show the screen recorder card"
+msgstr ""
+
+msgid "Quick toggles"
+msgstr ""
+
+msgid "Show the quick toggles card"
+msgstr ""
+
+msgid "Toggle wireless networking"
+msgstr ""
+
+msgid "Toggle the Bluetooth adapter"
+msgstr ""
+
+msgid "Mute or unmute the default source"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Open the settings window"
+msgstr ""
+
+msgid "Game mode"
+msgstr ""
+
+msgid "Toggle game mode"
+msgstr ""
+
+msgid "Do not disturb"
+msgstr ""
+
+msgid "Silence notifications"
+msgstr ""
+
+msgid "Connect or disconnect the VPN"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Always visible"
+msgstr ""
+
+msgid "Reveal on hover"
+msgstr ""
+
+msgid "Reveal on drag"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Important"
+msgstr ""
+
+msgid "Show in fullscreen"
+msgstr ""
+
+msgid "Whether notifications appear over fullscreen apps"
+msgstr ""
+
+msgid "Expire automatically"
+msgstr ""
+
+msgid "Dismiss notifications after their timeout"
+msgstr ""
+
+msgid "Open expanded"
+msgstr ""
+
+msgid "Show notifications expanded by default"
+msgstr ""
+
+msgid "Default timeout"
+msgstr ""
+
+msgid "Time before a notification dismisses (ms)"
+msgstr ""
+
+msgid "Group preview count"
+msgstr ""
+
+msgid "Notifications shown per group before collapsing"
+msgstr ""
+
+msgid "Toasts"
+msgstr ""
+
+msgid "Whether toasts appear over fullscreen apps"
+msgstr ""
+
+msgid "Visible toasts"
+msgstr ""
+
+msgid "Maximum number of toasts shown at once"
+msgstr ""
+
+msgid "Toast events"
+msgstr ""
+
+msgid "Charging changes"
+msgstr ""
+
+msgid "Game mode changes"
+msgstr ""
+
+msgid "Do not disturb changes"
+msgstr ""
+
+msgid "Audio output changes"
+msgstr ""
+
+msgid "Audio input changes"
+msgstr ""
+
+msgid "Caps lock changes"
+msgstr ""
+
+msgid "Num lock changes"
+msgstr ""
+
+msgid "Keyboard layout changes"
+msgstr ""
+
+msgid "VPN changes"
+msgstr ""
+
+msgid "Now playing"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Generic"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Notifications, toasts, timeouts"
+msgstr ""
+
+msgid "Polling"
+msgstr ""
+
+msgid "Media refresh"
+msgstr ""
+
+msgid "How often the media position updates (ms)"
+msgstr ""
+
+msgid "System stats refresh"
+msgstr ""
+
+msgid "CPU, memory and GPU update interval (seconds)"
+msgstr ""
+
+msgid "Wi-Fi rescan"
+msgstr ""
+
+msgid "How often available networks are rescanned (seconds)"
+msgstr ""
+
+msgid "Media & lyrics"
+msgstr ""
+
+msgid "Lyrics backend"
+msgstr ""
+
+msgid "Source used to fetch synced lyrics"
+msgstr ""
+
+msgid "Default player"
+msgstr ""
+
+msgid "Preferred media player when several are open"
+msgstr ""
+
+msgid "Input increments"
+msgstr ""
+
+msgid "Volume step"
+msgstr ""
+
+msgid "Amount the volume changes per scroll (%)"
+msgstr ""
+
+msgid "Brightness step"
+msgstr ""
+
+msgid "Amount the brightness changes per scroll (%)"
+msgstr ""
+
+msgid "Max volume"
+msgstr ""
+
+msgid "Upper limit for output volume (%)"
+msgstr ""
+
+msgid "Service tuning"
+msgstr ""
+
+msgid "Visualiser bars"
+msgstr ""
+
+msgid "Number of bars in the audio visualisers"
+msgstr ""
+
+msgid "Smart colour scheme"
+msgstr ""
+
+msgid "Derive theme mode and variant from the wallpaper"
+msgstr ""
+
+#, qt-format
+msgid "Monitoring: %1"
+msgstr ""
+
+msgid "Override for GPU type"
+msgstr ""
+
+msgid "Colours"
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid "Select an image"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Featured wallpaper"
+msgstr ""
+
+msgid "Local wallpapers"
+msgstr ""
+
+msgid "No local wallpapers found"
+msgstr ""
+
+msgid "Wallpaper disabled"
+msgstr ""
+
+msgid "Display wallpaper"
+msgstr ""
+
+msgid "Transparency"
+msgstr ""
+
+#, qt-format
+msgid "Base %1, layers %2"
+msgstr ""
+
+msgid "Dark theme"
+msgstr ""
+
+#, qt-format
+msgid "Nexus — %1"
+msgstr ""
+
+msgid "No body here! :/"
+msgstr ""
+
+#, qt-format
+msgid "notification%1"
+msgstr ""
+
+msgid "All up to date!"
+msgstr ""
+
+msgid "Keep Awake"
+msgstr ""
+
+msgid "Preventing sleep mode"
+msgstr ""
+
+msgid "Normal power management"
+msgstr ""
+
+#, qt-format
+msgid "Active since %1"
+msgstr ""
+
+msgid "Screen Recorder"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Running..."
+msgstr ""
+
+msgid "Ready"
+msgstr ""
+
+msgid "Record fullscreen"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Record region"
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "Record fullscreen with sound"
+msgstr ""
+
+msgid "Record region with sound"
+msgstr ""
+
+#, qt-format
+msgid "Recording for %1"
+msgstr ""
+
+msgid "Recordings"
+msgstr ""
+
+#, qt-format
+msgid "Recording at %1"
+msgstr ""
+
+msgid "No recordings found"
+msgstr ""
+
+msgid "Quick Toggles"
+msgstr ""
+
+msgid "Delete recording?"
+msgstr ""
+
+#, qt-format
+msgid "Recording '%1' will be permanently deleted."
+msgstr ""
+
+msgid "Move to workspace"
+msgstr ""
+
+msgid "Tile"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Unpin"
+msgstr ""
+
+msgid "Pin"
+msgstr ""
+
+msgid "Kill"
+msgstr ""
+
+msgid "No active client"
+msgstr ""
+
+#, qt-format
+msgid "Address: %1"
+msgstr ""
+
+#, qt-format
+msgid "Position: %1, %2"
+msgstr ""
+
+#, qt-format
+msgid "Size: %1 x %2"
+msgstr ""
+
+#, qt-format
+msgid "Workspace: %1 (%2)"
+msgstr ""
+
+#, qt-format
+msgid "Monitor: %1 (%2) at %3, %4"
+msgstr ""
+
+msgid "Monitor: unknown"
+msgstr ""
+
+#, qt-format
+msgid "Initial title: %1"
+msgstr ""
+
+#, qt-format
+msgid "Initial class: %1"
+msgstr ""
+
+#, qt-format
+msgid "Process id: %1"
+msgstr ""
+
+#, qt-format
+msgid "Floating: %1"
+msgstr ""
+
+#, qt-format
+msgid "Xwayland: %1"
+msgstr ""
+
+#, qt-format
+msgid "Pinned: %1"
+msgstr ""
+
+#, qt-format
+msgid "Fullscreen state: %1"
+msgstr ""
+
+msgid "Fullscreen state: unknown"
+msgstr ""
+
+msgid "Try switching to a window"
+msgstr ""
+
+#, qt-format
+msgid "%1 on monitor %2 at %3, %4"
+msgstr ""
+
+msgid "Unknown Application"
+msgstr ""
+
+msgid "Unknown Device"
+msgstr ""
+
+msgid "Audio output changed"
+msgstr ""
+
+#, qt-format
+msgid "Now using: %1"
+msgstr ""
+
+msgid "Audio input changed"
+msgstr ""
+
+msgid "Game mode enabled"
+msgstr ""
+
+msgid "Disabled Hyprland animations, blur, gaps and shadows"
+msgstr ""
+
+msgid "Game mode disabled"
+msgstr ""
+
+msgid "Hyprland settings restored"
+msgstr ""
+
+msgid "Enterprise"
+msgstr ""
+
+msgid "Enhanced Open"
+msgstr ""
+
+msgid "now"
+msgstr ""
+
+msgid "Do not disturb enabled"
+msgstr ""
+
+msgid "Popup notifications are now disabled"
+msgstr ""
+
+msgid "Do not disturb disabled"
+msgstr ""
+
+msgid "Popup notifications are now enabled"
+msgstr ""
+
+msgid "Now Playing"
+msgstr ""
+
+#, qt-format
+msgid "%1 - %2"
+msgstr ""
+
+msgid "VPN connection failed"
+msgstr ""
+
+msgid "VPN disconnection failed"
+msgstr ""
+
+msgid "VPN connected"
+msgstr ""
+
+#, qt-format
+msgid "Connected to %1"
+msgstr ""
+
+msgid "VPN disconnected"
+msgstr ""
+
+#, qt-format
+msgid "Disconnected from %1"
+msgstr ""
+
+msgid "VPN authentication required"
+msgstr ""
+
+#, qt-format
+msgid "%1: %2"
+msgstr ""
+
+msgid "VPN error"
+msgstr ""
+
+#, qt-format
+msgid "Could not start %1. Is it installed?"
+msgstr ""
+
+#, qt-format
+msgid "Could not connect to %1"
+msgstr ""
+
+msgid "No weather"
+msgstr ""
+
+msgid "Unknown City"
+msgstr ""
+
+msgid "Detecting GPU..."
+msgstr ""
+
+msgid "Hibernate failed"
+msgstr ""
+
+msgid "Enable hibernation to use this feature."
+msgstr ""
